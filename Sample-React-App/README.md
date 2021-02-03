@@ -1,3 +1,13 @@
+Changes to be made in the ./src/components/rayzorpay.js
+
+Line 14 -Axios.post('--your cloud function address for creating order with razorpay--', { amount: amntTxt, receipt: "Abhishek-sample-attendio-5266" }) -> put in your Order id function's trigger url
+
+Line 20 - "key_id": "--your key id---" -> your generated key id comes here
+
+Line 21 - "key_secret": "--your key secret--" -> your generated key secret comes here
+  
+Line 31 - Axios.post('--your cloud function address for payment verification with razorpay--', { razorpay_payment_id: response.razorpay_payment_id, razorpay_order_id: response.razorpay_order_id,razorpay_signature:response.razorpay_signature }) -> put in your Payment Verification function's trigger url
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
