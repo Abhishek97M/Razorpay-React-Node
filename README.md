@@ -13,7 +13,7 @@ Deploy cloud functions as shown in cloud functions directory readme , I personal
 
 Step 4
 
-Integrate buttons with your react as show in  the example react app
+Integrate buttons with your react app as show in  the example react app
 
 Step 5 
 
