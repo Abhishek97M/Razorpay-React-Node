@@ -9,7 +9,7 @@ Generate key and key_secret from your rayzorpay account
 
 Step 3
 
-Deploy cloud functions as shown in cloud functions directory readme , I personally use google cloud functions over Google cloud platform  
+Deploy cloud functions as shown in cloud functions directory readme , I used google cloud functions over Google cloud platform ,you can use other platforms like aws-lambda as well
 
 Step 4
 
