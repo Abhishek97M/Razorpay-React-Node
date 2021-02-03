@@ -4,6 +4,7 @@ Helps create a working google cloud function for server side order id generation
 Step 1 
 
 Generate key and key_secret from your rayzorpay account
+https://github.com/Abhishek97M/Razorpay-React_js_integration-Node_js_Cloud_Function/blob/main/images/razorpay-generate-api-key.png
 
 Step 3
 
